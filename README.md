@@ -1,4 +1,4 @@
-<h1 align="center">Ignite Timer</h1>
+<h1 align="center">Dev Timer</h1>
 
 <div align="center">
   <img src="./public/preview.png" alt="demonstração do projeto" >
