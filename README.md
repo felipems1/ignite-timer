@@ -6,9 +6,7 @@
 
 ## 1 - Sobre
 
-Uma aplicação Pomodoro para otimizar sua produtividade através de períodos de trabalho concentrado e pausas estratégicas.
-
----
+Uma aplicação com o método Pomodoro para otimizar sua produtividade através de períodos de trabalho concentrado e pausas estratégicas.
 
 ## 2 - Tecnologias
 
@@ -22,8 +20,6 @@ Um pouco das tecnologias que foram utilizadas no projeto:
 - Zod
 - React-Router-Dom
 - Date-Fns
-
----
 
 ## 3 - Rodando o projeto:
 
