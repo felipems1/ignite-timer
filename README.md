@@ -1,4 +1,4 @@
-<h1 align="center">Dev Timer</h1>
+<h1 align="center">Ignite Timer</h1>
 
 <div align="center">
   <img src="./public/preview.png" alt="demonstração do projeto" >
@@ -27,7 +27,7 @@ Você precisa ter o [Node](https://nodejs.org/en/), o [Git](https://git-scm.com/
 
 ```bash
 1. Clone o repositório:
-$ git clone https://github.com/felipems1/dev-timer.git
+$ git clone https://github.com/felipems1/ignite-timer.git
 
 2. Acesse a pasta e instale as dependências via terminal:
 $ yarn install / npm install
